@@ -2,7 +2,7 @@
   "name": "SkyNews — Space News",
   "short_name": "SkyNews",
   "description": "Space news aggregator powered by Spaceflight News API",
-  "start_url": "/index.html",
+  "start_url": "/skynews/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#03040a",

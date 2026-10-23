@@ -1,8 +1,8 @@
 {
-  "name": "SkyNews — Space News",
-  "short_name": "SkyNews",
+  "name": "Cosmos News",
+  "short_name": "Cosmos News",
   "description": "Space news aggregator powered by Spaceflight News API",
-  "start_url": "/skynews/",
+  "start_url": "/news/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#03040a",
